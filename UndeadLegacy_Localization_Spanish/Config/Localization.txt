@@ -1977,21 +1977,21 @@ carBatteryBlueprint,"Batería de plomo para coches"
 carBatteryBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
 armorMiningHelmetBlueprint,"Casco minero"
 armorMiningHelmetBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo10mmRoundHPBlueprint,"Bala 10mm (HP)"
+ulmAmmo10mmRoundHPBlueprint,"Bala de 10mm (HP)"
 ulmAmmo10mmRoundHPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo10mmRoundAPBlueprint,"Bala 10mm (AP)"
+ulmAmmo10mmRoundAPBlueprint,"Bala de 10mm (AP)"
 ulmAmmo10mmRoundAPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo38CalRoundHPBlueprint,"Bala .38 (HP)"
+ulmAmmo38CalRoundHPBlueprint,"Bala de .38 (HP)"
 ulmAmmo38CalRoundHPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo38CalRoundAPBlueprint,"Bala .38 (AP)"
+ulmAmmo38CalRoundAPBlueprint,"Bala de .38 (AP)"
 ulmAmmo38CalRoundAPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo556mmRoundHPBlueprint,"Bala 5.56mm (HP)"
+ulmAmmo556mmRoundHPBlueprint,"Bala de 5.56mm (HP)"
 ulmAmmo556mmRoundHPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo556mmRoundAPBlueprint,"Bala 5.56mm (AP)"
+ulmAmmo556mmRoundAPBlueprint,"Bala de 5.56mm (AP)"
 ulmAmmo556mmRoundAPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo792mmRoundHPBlueprint,"Bala 7.92mm (HP)"
+ulmAmmo792mmRoundHPBlueprint,"Bala de 7.92mm (HP)"
 ulmAmmo792mmRoundHPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
-ulmAmmo792mmRoundAPBlueprint,"Bala 7.92mm (AP)"
+ulmAmmo792mmRoundAPBlueprint,"Bala de 7.92mm (AP)"
 ulmAmmo792mmRoundAPBlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
 ulmStationArtisan_1Blueprint,"Mesa de artesanía"
 ulmStationArtisan_1BlueprintDesc,"Te permite aprender una nueva receta de elaboración. Si ya se sabe, da XP cuando se usa".
