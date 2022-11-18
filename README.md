@@ -4,7 +4,8 @@ This repository will contain each Undead Legacy localizations
 
 ## Localizations
 
-Create a new directory in the root folder like this: UndeadLegacy_Localization_LANGAUGE.
+Create a new directory in the root folder like this: `UndeadLegacy_Localization_LANGAUGE`
+
 For example, assuming you want to translate to Spanish:
 
 - Create a new folder named `UndeadLegacy_Localization_Spanish`
