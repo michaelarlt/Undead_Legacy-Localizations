@@ -2994,8 +2994,8 @@ perkGunslinger3,"Las pistolas infligen [decea3]15%[-] más de daño, [decea3]15%
 perkGunslinger4,"Las pistolas infligen [decea3]20%[-] más de daño, [decea3]20%[-] más rápidas y [decea3]25%[-] más rápidas de recargar. Daño crítico: [decea3] 4 [-] golpes sucesivos en poco tiempo hacen que el último disparo haga [decea3]100%[-] daño adicional"
 perkGunslinger5,"Las pistolas infligen [decea3]25%[-] más de daño, [decea3]25%[-] velocidad de disparo más rápida y [decea3]30%[-] recarga más rápida. Daño crítico: [decea3]3[-] golpes sucesivos en poco tiempo causar que el último disparo haga [decea3]100%[-] daño adicional"
 perkDeepCuts1,"Las cuchillas infligen [decea3]5%[-] más de daño y pueden infligir hasta [decea3]3[-] Heridas sangrantes en un enemigo, los ataques poderosos infligen [decea3]2[-]. Cada ataque reinicia la duración del sangrado. Enemigos sangrantes correr [decea3]10%[-] más lento"
-perkDeepCuts2,"Las cuchillas infligen [decea3]10%[-] más de daño y pueden infligir hasta [decea3]4[-] Heridas sangrantes en un enemigo, los ataques de poder infligen [decea3]3[-]"
-perkDeepCuts3,"Las cuchillas infligen [decea3] 15% [-] más de daño y pueden infligir hasta [decea3] 5 [-] Heridas sangrantes en un enemigo, los ataques de poder infligen [decea3] 4 [-]. Los golpes de refilón tienen un [decea3] 40 %[-] probabilidad de causar [decea3]1[-] Herida sangrante. Los enemigos sangrantes corren [decea3]15%[-] más lentos"
+perkDeepCuts2,"Las cuchillas infligen [decea3]10%[-] más de daño y pueden infligir hasta [decea3]4[-] Heridas sangrantes en un enemigo, los ataques fuertes inflingen [decea3]3[-]"
+perkDeepCuts3,"Las cuchillas infligen [decea3] 15% [-] más de daño y pueden infligir hasta [decea3] 5 [-] Heridas sangrantes en un enemigo, los ataques fuertes inflingen [decea3] 4 [-]. Los golpes de refilón tienen un [decea3] 40 %[-] probabilidad de causar [decea3]1[-] Herida sangrante. Los enemigos sangrantes corren [decea3]15%[-] más lentos"
 perkDeepCuts4,"Las cuchillas infligen [decea3]20%[-] más de daño y pueden infligir hasta [decea3]6[-] Heridas sangrantes en un enemigo, los ataques poderosos infligen [decea3]4[-]. Los golpes de refilón tienen un [decea3]70 %[-] probabilidad de causar [decea3]1[-] herida sangrante"
 perkDeepCuts5,"Las cuchillas infligen [decea3]25%[-] más de daño y pueden infligir hasta [decea3]7[-] Heridas sangrantes en un enemigo, los ataques poderosos infligen [decea3]5[-]. Todos los golpes de refilón causan [decea3]1 [-] Herida sangrante. Los enemigos sangrantes corren [decea3]20%[-] más lentos"
 perkRuleOneCardioName,"Cardio"
@@ -3004,7 +3004,7 @@ perkRuleOneCardio2,"Agrega [decea3]+10[-] a tu resistencia máxima\nLa resistenc
 perkRuleOneCardio3,"Agrega [decea3]+15[-] a tu resistencia máxima\nLa resistencia se regenera [decea3]20%[-] más rápido cuando corres"
 perkRuleOneCardio4,"Agrega [decea3]+20[-] a tu resistencia máxima\nLa resistencia se regenera [decea3]20%[-] más rápido cuando corres"
 perkRuleOneCardio5,"Agrega [decea3]+25[-] a tu resistencia máxima\nLa resistencia se regenera [decea3]30%[-] más rápido cuando corres"
-perkFromTheShadowsName,"Shadow Fox"
+perkFromTheShadowsName,"Entre las sombras"
 perkFromTheShadows1,"Escóndete en las sombras con un [decea3]13%[-][decea3]10%[-] menos ruidosas y agáchate un [decea3]10%[-] más rápido. Los enemigos te buscarán durante un máximo de [decea3]50[-] segundos.
 perkFromTheShadows2,"Escóndete en las sombras con un [decea3]26%[-] más de eficacia, las acciones son un [decea3]20%[-] menos ruidosas y agáchate un [decea3]20%[-] más rápido. Los enemigos te buscarán durante un máximo de [decea3]40[-] segundos.
 perkFromTheShadows3,"Escóndete en las sombras con un [decea3]39%[-] más de eficacia, las acciones son un [decea3]30%[-] menos ruidosas y agáchate un [decea3]30%[-] más rápido. Los enemigos te buscarán durante un máximo de [decea3]30[-] segundos.
@@ -3016,7 +3016,6 @@ perkHiddenStrike3,"Los ataques furtivos infligen un [decea3]150%[-] más de dañ
 perkHiddenStrike4,"Los ataques furtivos infligen un [decea3]200%[-] más de daño."
 perkHiddenStrike5,"Los ataques furtivos infligen un [decea3]250%[-] más de daño."
 actionPerkHandguns,"Pistolas"
-actionPerkHandgunsDesc,"Improves [decea3]Handgun[-] fire rate, reload speed, damage and aiming up to [decea3]25%[-]. Use handguns to improve this skill."
 actionPerkHandgunsEffect,"Improves [decea3]Handgun[-] fire rate, reload speed, damage and aiming \nby [decea3]0.25%[-]."
 actionPerkHandguns1,"Daño, puntería, desmembramiento [decea3]+5%[-]\nDisparo en la cabeza: [decea3]+10%[-]\nVelocidad de recarga [decea3]+2%[-]"
 actionPerkHandguns2,"Daño, puntería, desmembramiento [decea3]+10%[-]\nDisparo en la cabeza: [decea3]+20%[-]\nVelocidad de recarga [decea3]+4%[-]"
