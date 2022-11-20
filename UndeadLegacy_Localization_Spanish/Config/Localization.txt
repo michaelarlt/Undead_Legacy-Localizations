@@ -3010,6 +3010,7 @@ perkFromTheShadows2,"Escóndete en las sombras con un [decea3]26%[-] más de efi
 perkFromTheShadows3,"Escóndete en las sombras con un [decea3]39%[-] más de eficacia, las acciones son un [decea3]30%[-] menos ruidosas y agáchate un [decea3]30%[-] más rápido. Los enemigos te buscarán durante un máximo de [decea3]30[-] segundos.
 perkFromTheShadows4,"Escóndete en las sombras con un [decea3]52%[-] más de eficacia, las acciones son un [decea3]40%[-] menos ruidosas y agáchate un [decea3]40%[-] más rápido. Los enemigos te buscarán durante un máximo de [decea3]25[-] segundos.
 perkFromTheShadows5,"Escóndete en las sombras con un [decea3]65%[-] más de eficacia, las acciones son un [decea3]50%[-] menos ruidosas y agáchate un [decea3]50%[-] más rápido. Los enemigos te buscarán durante un máximo de [decea3]20[-] segundos.
+perkHiddenStrike,"Ataque furtivo"
 perkHiddenStrike1,"Los ataques furtivos infligen un [decea3]50%[-] más de daño."
 perkHiddenStrike2,"Los ataques furtivos infligen un [decea3]100%[-] más de daño."
 perkHiddenStrike3,"Los ataques furtivos infligen un [decea3]150%[-] más de daño."
