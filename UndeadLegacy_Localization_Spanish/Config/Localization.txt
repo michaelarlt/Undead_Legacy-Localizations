@@ -4821,7 +4821,7 @@ ulmQuestSurvivalTraderDesc,"Parece que hay una posible ubicación de asentamient
 ulmQuestSurvivalBasics,"Fundamentos de supervivencia"
 ulmQuestSurvivalBasicsDesc,"¡Si has llegado hasta aquí, enhorabuena, pero esto es sólo el principio!\n\nSi quieres mantenerte vivo a largo plazo, debes entender que tienes un largo camino por delante.\n\nRecuerda, el páramo es un lugar muy cruel e implacable, no perdona a nadie. Esta serie de tareas te ayudarán a empezar a establecer tu presencia en el duro mundo de [decea3]Undead Legacy[-] y, con suerte, ¡vivirás para transmitir estos conocimientos a otros supervivientes!\n\n¡Buena suerte, superviviente!"
 ulmQuestSurvivalCampfire,"Fundamentos de la cocina"
-ulmQuestSurvivalCampfireDesc,"Construye o encuentra e interactúa con una [decea3]Fogata[-]. Es útil para cocinar varios alimentos y calentarse."
+ulmQuestSurvivalCampfireDesc,"Construye o encuentra e interactúa con una [decea3]hoguera[-]. Es útil para cocinar varios alimentos y calentarse."
 ulmQuestSurvivalMaintenance,"Fundamentos del mantenimiento"
 ulmQuestSurvivalMaintenanceDesc,"Construye o encuentra e interactúa con una [decea3]Mesa de Mantenimiento[-]. Allí podrás reparar o mejorar tu equipo, como armaduras, armas, herramientas y vehículos."
 ulmQuestSurvivalResearch,"Fundamentos de la ciencia"
