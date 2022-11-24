@@ -3290,7 +3290,7 @@ perkParkourRank2Desc,"Reduce el coste de resistencia al saltar un [decea3]20%[-]
 perkParkourRank3Desc,"Reduce el coste de resistencia al saltar en un [decea3]30%[-], aumenta la distancia de caída segura en [decea3]4[-] metros y nunca te rompes una pierna al caer"
 perkParkourRank4Desc,"Reduce el coste de resistencia al saltar en un [decea3]40%[-], aumenta la distancia de caída segura en [decea3]5[-] metros, puede saltar [decea3]2[-] metros más alto, y nunca se torcerá o romperá una pierna al caer"
 perkCharismaticNatureRank1Desc,"Los aliados cercanos ganan [decea3]20[-] de salud y resistencia"
-perkCharismaticNatureRank2Desc,"Los aliados cercanos ganan [decea3]20%[-] de daño por bloqueo y cuerpo a cuerpo"
+perkCharismaticNatureRank2Desc,"Los aliados cercanos ganan [decea3]20%[-] de daño a bloques y cuerpo a cuerpo"
 perkCharismaticNatureRank3Desc,"Los aliados cercanos ganan un [decea3]10%[-] de resistencia contra todas las fuentes de daño, reciben un [decea3]50%[-] menos de daño por hemorragia y se desangran un [decea3]50%[-] más lentamente."
 perkCharismaticNatureRank4Desc,"Los aliados cercanos ganan [decea3]+1[-] a todos los atributos"
 perkAdvancedEngineeringRank1Desc,"Las fraguas producen un [decea3]20%[-] más rápido. La fabricación de pegamento requiere menos recursos"
