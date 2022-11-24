@@ -3717,7 +3717,7 @@ ulmContainerGunSafeInsecurePlayer,"Caja fuerte para armas insegura"
 ulmContainerGunSafeInsecurePlayerDesc,"Almacenamiento bueno y confiable. No tiene cerradura."
 ulmContainerStationChemistryCollapsed,"Estación química derrumbada"
 ulmContainerStationChemistryCollapsedDesc,"Mezcla y prepara todo tipo de mezclas y productos químicos."
-ulmContainerWorkbenchCollapsed,"Mesa de trabajo derrumbada"(
+ulmContainerWorkbenchCollapsed,"Mesa de trabajo derrumbada"
 ulmContainerWorkbenchCollapsedDesc,"Te permite fabricar objetos y bloques más avanzados que con tus propias manos."
 ulmContainerSteelSafe1Closed,"Caja fuerte pequeña"
 ulmContainerSteelSafe1ClosedDesc,"Caja fuerte de acero pequeña, útil para guardar objetos de valor."
